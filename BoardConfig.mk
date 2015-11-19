@@ -20,6 +20,6 @@ TARGET_BOARD_INFO_FILE ?= device/lge/d802/board-info.txt
 
 TARGET_KERNEL_CONFIG := cyanogenmod_d802_defconfig
 
-TARGET_OTA_ASSERT_DEVICE := d802,g2,galbi,d800
+TARGET_OTA_ASSERT_DEVICE := d802,g2,galbi
 
 G2_DTS_TARGET := msm8974-g2-open_com
